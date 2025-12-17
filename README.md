@@ -5,4 +5,5 @@ The stack for this project is:
 3) MAVSDK Python
 4) RVIZ
 5) Opencv
+
 Successfully demonstrated the landing of a Quadrotor drone on a moving rover using Camera, IMU and altimeter sensor fusion and an aruco marker for detection.
